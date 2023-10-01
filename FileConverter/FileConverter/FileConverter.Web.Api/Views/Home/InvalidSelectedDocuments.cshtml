@@ -1,0 +1,16 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model FileConverter.Web.Api.Infrastructure.ValidatorStateAttributes.GuardModels.FileModel
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="files">Select Files:</label>
+        <input type="file" id="files" name="Files" multiple>
+    </div>
+    <button type="submit">Submit</button>
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

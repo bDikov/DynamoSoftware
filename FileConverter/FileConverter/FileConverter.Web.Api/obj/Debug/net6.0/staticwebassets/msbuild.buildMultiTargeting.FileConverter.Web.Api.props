@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FileConverter.Web.Api.props" />
+</Project>

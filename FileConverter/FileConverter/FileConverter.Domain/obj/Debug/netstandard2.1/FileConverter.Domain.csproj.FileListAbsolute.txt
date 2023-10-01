@@ -1,0 +1,10 @@
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FileConverter.Domain\bin\Debug\netstandard2.1\FileConverter.Domain.deps.json
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FileConverter.Domain\bin\Debug\netstandard2.1\FileConverter.Domain.dll
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FileConverter.Domain\bin\Debug\netstandard2.1\FileConverter.Domain.pdb
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FileConverter.Domain\obj\Debug\netstandard2.1\FileConverter.Domain.csproj.AssemblyReference.cache
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FileConverter.Domain\obj\Debug\netstandard2.1\FileConverter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FileConverter.Domain\obj\Debug\netstandard2.1\FileConverter.Domain.AssemblyInfoInputs.cache
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FileConverter.Domain\obj\Debug\netstandard2.1\FileConverter.Domain.AssemblyInfo.cs
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FileConverter.Domain\obj\Debug\netstandard2.1\FileConverter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FileConverter.Domain\obj\Debug\netstandard2.1\FileConverter.Domain.dll
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FileConverter.Domain\obj\Debug\netstandard2.1\FileConverter.Domain.pdb

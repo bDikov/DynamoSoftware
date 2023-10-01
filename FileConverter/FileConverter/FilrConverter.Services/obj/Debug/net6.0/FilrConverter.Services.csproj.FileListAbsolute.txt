@@ -1,0 +1,15 @@
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\bin\Debug\net6.0\FilrConverter.Services.deps.json
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\bin\Debug\net6.0\FilrConverter.Services.dll
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\bin\Debug\net6.0\FilrConverter.Services.pdb
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\bin\Debug\net6.0\FileConverter.Domain.dll
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\bin\Debug\net6.0\FileConverter.Domain.pdb
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\obj\Debug\net6.0\FilrConverter.Services.csproj.AssemblyReference.cache
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\obj\Debug\net6.0\FilrConverter.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\obj\Debug\net6.0\FilrConverter.Services.AssemblyInfoInputs.cache
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\obj\Debug\net6.0\FilrConverter.Services.AssemblyInfo.cs
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\obj\Debug\net6.0\FilrConverter.Services.csproj.CoreCompileInputs.cache
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\obj\Debug\net6.0\FilrConverter.Services.csproj.CopyComplete
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\obj\Debug\net6.0\FilrConverter.Services.dll
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\obj\Debug\net6.0\refint\FilrConverter.Services.dll
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\obj\Debug\net6.0\FilrConverter.Services.pdb
+C:\Users\Boncho\OneDrive\Desktop\Projects\DynamoSoftware\FileConverter\FileConverter\FilrConverter.Services\obj\Debug\net6.0\ref\FilrConverter.Services.dll

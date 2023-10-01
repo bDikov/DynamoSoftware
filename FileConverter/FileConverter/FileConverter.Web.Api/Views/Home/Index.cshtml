@@ -1,0 +1,16 @@
+﻿<form action="Home/Upload" enctype="multipart/form-data" method="post" async>
+    <dl>
+        <dt>
+            <label for="file">Please select XML files and press Update</label>
+        </dt>
+        <dd>
+            <input id="file" type="file" name="files" accept=".xml" multiple required />
+        </dd>
+    </dl>
+
+    <input class="btn btn-dark" type="submit" value="Upload" />
+
+    <div style="margin-top:15px">
+        <output id="result" name="result"></output>
+    </div>
+</form>
